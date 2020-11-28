@@ -42,7 +42,7 @@ Our tech stack will include the following:
 
 
 ## Development Setup
-1. **Download the project starter code locally**
+1. **Download the project code locally**
 ```
 git clone https://github.com/ananth594/01_fyyur.git
 
